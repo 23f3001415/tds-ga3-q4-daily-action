@@ -34,4 +34,8 @@ Required email in step name:
 
 Repository URL:
 
-`TO_BE_FILLED_AFTER_GITHUB_PUSH`
+`https://github.com/23f3001415/tds-ga3-q4-daily-action`
+
+Latest workflow run:
+
+`https://github.com/23f3001415/tds-ga3-q4-daily-action/actions/runs/22305994073`
